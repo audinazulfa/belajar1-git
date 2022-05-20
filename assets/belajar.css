@@ -1,0 +1,16 @@
+p {
+    font-size: 30px;
+    text-align: center;
+    color: brown;
+}
+
+.wrapper {
+    padding: 10px;
+    margin: 12px;
+}
+
+p.a {
+    text-align: left;
+    font-size: 20px;
+    color: blueviolet;
+}
